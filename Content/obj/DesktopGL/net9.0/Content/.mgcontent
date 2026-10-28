@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/backround.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Bricks_bottom.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Bricks_top.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Bricks.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/dirt island right.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/dirt island.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/dirt_bottom.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/dirt_top.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/dirt.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Grass_Tiles.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Path_corner_bl.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Path_corner_br.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Path_corner_left.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Path_corner_right.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Path_front.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/Path_side.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/sparrow boy back.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/sparrow boy front.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/sparrowboy.png</File>
+    <File>c:/Users/steph/OneDrive/Desktop/Map purple sparrow/PurpleSparrow/Content/sparrowboy(Left).png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
